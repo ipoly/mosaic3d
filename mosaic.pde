@@ -56,8 +56,10 @@ class Mosaic {
 
     for (int i = count;count<balls.length;count++) {
       if (alpha(balls[count].c) > 0) {
-        balls[count].home();
-        balls[count].display();
+        Ball b = balls[count];
+        b.home();
+        b.colorTo(color(b.c,0));
+        b.display();
       }
     }
     popMatrix();
