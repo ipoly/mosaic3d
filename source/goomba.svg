@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="64px"
+   height="64px"
+   id="svg2483"
+   sodipodi:version="0.32"
+   inkscape:version="0.46+devel"
+   sodipodi:docname="goomba.svg"
+   inkscape:output_extension="org.inkscape.output.svg.inkscape"
+   inkscape:export-filename="/home/david/goomba.png"
+   inkscape:export-xdpi="289.6875"
+   inkscape:export-ydpi="289.6875">
+  <defs
+     id="defs2485">
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3547"
+       pattern="m 0,5 200,5 0,-10 z" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3543"
+       pattern="M 0,0 0,10 200,5 z" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3539"
+       pattern="M 0,0 0,10 200,5 z" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3535"
+       pattern="M 0,0 0,10 200,5 z" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3531"
+       pattern="M 0,0 0,10 200,5 z" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3527"
+       pattern="M 0,0 0,10 200,5 z" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3519"
+       pattern="M 0,0 0,10 200,5 z" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3397"
+       pattern="m 0,5 200,5 0,-10 z" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3395" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3363"
+       pattern="m 0,5 200,5 0,-10 z" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3361" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3357"
+       pattern="m 0,5 200,5 0,-10 z" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3355" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3337"
+       pattern="m 0,5 200,5 0,-10 z" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3335" />
+    <inkscape:path-effect
+       effect="skeletal"
+       id="path-effect3317"
+       pattern="M 0,0 0,10 200,5 z" />
+    <inkscape:path-effect
+       effect="spiro"
+       id="path-effect3315" />
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 32 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="64 : 32 : 1"
+       inkscape:persp3d-origin="32 : 21.333333 : 1"
+       id="perspective2491" />
+    <filter
+       inkscape:collect="always"
+       id="filter3327"
+       x="-0.024222966"
+       width="1.0484459"
+       y="-0.12495974"
+       height="1.2499195">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.2877224"
+         id="feGaussianBlur3329" />
+    </filter>
+    <filter
+       inkscape:collect="always"
+       id="filter3341"
+       x="-0.17920198"
+       width="1.358404"
+       y="-0.11366058"
+       height="1.2273212">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.37199893"
+         id="feGaussianBlur3343" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6568542"
+     inkscape:cx="-24.108869"
+     inkscape:cy="48.599118"
+     inkscape:current-layer="layer1"
+     showgrid="true"
+     inkscape:document-units="px"
+     inkscape:grid-bbox="true"
+     inkscape:window-width="1022"
+     inkscape:window-height="746"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata2488">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer">
+    <path
+       sodipodi:nodetypes="csssc"
+       id="path2524"
+       d="m 53.553248,57.159757 c 0,3.030095 -3.1756,2.425506 -7.08839,2.425506 -3.91279,0 -7.472006,0.580206 -7.088388,-2.425506 0.350902,-2.749372 3.87124,-4.93279 7.088388,-5.489302 3.855531,-0.666942 7.08839,2.459208 7.08839,5.489302 z"
+       style="fill:#2e3436;fill-opacity:1;stroke:#000000;stroke-width:0.65551805;stroke-opacity:1"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       style="fill:#e9b96e;fill-opacity:1;stroke:#736154;stroke-width:1.93133628000000002;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       d="M 47.104315,40.726367 C 47.56553,57.794281 40.09166,57.793067 28.255658,57.407721 18.671267,57.097307 16.931883,50.091757 14.698622,39.735222 c -1.655183,-7.675748 7.60348,-10.321016 16.661329,-9.521794 9.057848,0.799222 16.339977,2.682468 15.744364,10.512939 z"
+       id="path2523"
+       sodipodi:nodetypes="csssc"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <rect
+       style="opacity:1;fill:#fcaf3e;fill-opacity:1;stroke:none"
+       id="rect3271"
+       width="10.576326"
+       height="10.73032"
+       x="26.191683"
+       y="28.496828"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       style="fill:#555753;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.10344828000000000;filter:url(#filter3327)"
+       d="m 17.279871,47.07099 c 9.356275,-2.250931 19.151125,-2.675554 28.5074,-0.263146 L 31.489714,41.54494 z"
+       id="path3321"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       style="fill:#f57900;fill-opacity:1;stroke:#6f370b;stroke-width:2;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+       d="m 63.032553,33.275973 c 0,4.745427 -3.474675,9.04382 -9.090003,12.155857 -5.615321,3.112039 -13.371297,-2.897777 -21.933888,-2.897777 -8.562595,0 -16.318571,6.009816 -21.933892,2.897777 -5.6153274,-3.112037 -9.09,-7.41043 -9.09,-12.155857 0,-4.745425 5.4136689,-10.217448 11.028993,-16.503682 5.615324,-6.286235 10.903488,-15.7509892 19.466082,-15.7509892 8.562593,0 14.203301,8.9191449 19.818625,15.2053792 5.615326,6.286235 11.734083,12.303867 11.734083,17.049292 z"
+       id="path2493"
+       sodipodi:nodetypes="csssssssc"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#2e3436;stroke-opacity:1;stroke-width:0.60062130999999996;stroke-miterlimit:4;stroke-dasharray:none"
+       id="path3293"
+       sodipodi:cx="22.09091"
+       sodipodi:cy="19.272728"
+       sodipodi:rx="3.1818182"
+       sodipodi:ry="6.3636365"
+       d="m 25.272728,19.272728 a 3.1818182,6.3636365 0 1 1 -6.363636,0 3.1818182,6.3636365 0 1 1 6.363636,0 z"
+       transform="matrix(1.8279068,0.3469891,-0.2615738,1.466853,-11.115175,-13.44044)"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       transform="matrix(-1.7988288,0.4823524,0.3636159,1.4435186,72.113007,-15.799151)"
+       d="m 25.272728,19.272728 a 3.1818182,6.3636365 0 1 1 -6.363636,0 3.1818182,6.3636365 0 1 1 6.363636,0 z"
+       sodipodi:ry="6.3636365"
+       sodipodi:rx="3.1818182"
+       sodipodi:cy="19.272728"
+       sodipodi:cx="22.09091"
+       id="path3295"
+       style="opacity:1;fill:#eeeeec;fill-opacity:1;stroke:#2e3436;stroke-opacity:1;stroke-width:0.60062130999999996;stroke-miterlimit:4;stroke-dasharray:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       style="fill:#eeeeec;fill-opacity:1;stroke:#2e3436;stroke-width:0.81417161;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       d="m 12.248709,39.227299 c 0.187491,-2.087552 0.044012,-3.926876 2.03405,-7.366338 2.062,1.494592 3.87273,2.715885 4.96926,5.560398 l -3.501655,0.902969 z"
+       id="path3445"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       id="path3305"
+       d="m 51.268023,38.174718 c 0.133687,-1.960303 0.671612,-3.841805 -2.03405,-7.366338 -3.415839,1.56023 -3.98619,3.889334 -4.615707,5.913951 l 3.148102,0.549416 z"
+       style="fill:#eeeeec;fill-opacity:1;stroke:#2e3436;stroke-width:0.81417161;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:1.50000000000000000;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 12.61873,39.227148 c 12.383594,-3.65643 25.105318,-4.696354 38.42732,-1.091219"
+       id="path3443"
+       sodipodi:nodetypes="cc"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       d="m 29.090908,18.181818 a 2.3636363,4 0 1 1 -4.727272,0 2.3636363,4 0 1 1 4.727272,0 z"
+       sodipodi:ry="4"
+       sodipodi:rx="2.3636363"
+       sodipodi:cy="18.181818"
+       sodipodi:cx="26.727272"
+       id="path3453"
+       style="opacity:1;fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:0.63200003000000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       sodipodi:type="arc"
+       transform="matrix(0.9392519,0.2478999,-0.2402699,0.9690789,6.1616737,-6.2969255)"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       transform="matrix(-0.9392519,0.2478999,0.2402699,0.9690789,57.503108,-6.1150557)"
+       sodipodi:type="arc"
+       style="opacity:1;fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:0.63200003000000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="path3495"
+       sodipodi:cx="26.727272"
+       sodipodi:cy="18.181818"
+       sodipodi:rx="2.3636363"
+       sodipodi:ry="4"
+       d="m 29.090908,18.181818 a 2.3636363,4 0 1 1 -4.727272,0 2.3636363,4 0 1 1 4.727272,0 z"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       style="fill:none;stroke:#2e3436;stroke-width:0.90290110999999995px;stroke-linecap:round;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 29.1194,11.873468 c 0.489314,4.278375 -0.401233,4.762604 2.236074,5.99223 4.506163,0.472253 3.160544,-3.452692 3.487344,-6.079945"
+       id="path3497"
+       sodipodi:nodetypes="ccc"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:0.62237465000000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       d="M 31.84882,17.865525 C 33.831753,20.26417 23.349462,10.474313 18.523676,8.9872482 8.7785737,5.984296 3.7322854,10.676615 8.5809006,7.6808159 11.927357,5.6131519 19.125406,2.4747117 21.625037,5.4983779 z"
+       id="path3656"
+       sodipodi:nodetypes="cssss"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       style="fill:#2e3436;fill-opacity:1;stroke:#000000;stroke-width:0.9160462;stroke-opacity:1"
+       d="m 10.538459,57.429176 c 0,4.185979 4.401292,4.22791 9.932386,4.22791 5.531094,0 10.650094,-0.075615 10.107814,-4.22791 -0.496032,-3.79817 -5.47236,-6.814492 -10.020099,-7.583296 -5.450154,-0.921359 -10.020101,3.397318 -10.020101,7.583296 z"
+       id="path3350"
+       sodipodi:nodetypes="csssc"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       d="m 29.090908,18.181818 a 2.3636363,4 0 1 1 -4.727272,0 2.3636363,4 0 1 1 4.727272,0 z"
+       sodipodi:ry="4"
+       sodipodi:rx="2.3636363"
+       sodipodi:cy="18.181818"
+       sodipodi:cx="26.727272"
+       id="path3345"
+       style="opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;filter:url(#filter3341)"
+       sodipodi:type="arc"
+       transform="matrix(-0.9392519,0.2478999,0.2402699,0.9690789,57.531364,-5.9433721)"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       sodipodi:nodetypes="cssss"
+       id="path2538"
+       d="M 32.296626,17.865525 C 30.313693,20.26417 40.795984,10.474313 45.62177,8.9872482 55.366872,5.984296 60.41316,10.676615 55.564545,7.6808159 52.218089,5.6131519 45.02004,2.4747117 42.520409,5.4983779 z"
+       style="fill:#2e3436;fill-opacity:1;stroke:#2e3436;stroke-width:0.62237465000000003;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dashoffset:0"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       inkscape:export-ydpi="272.35318"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       transform="matrix(0.9392519,0.2478999,-0.2402699,0.9690789,6.1616737,-6.2969255)"
+       sodipodi:type="arc"
+       style="opacity:1;fill:#2e3436;fill-opacity:1;stroke:none;stroke-width:0.63200003000000005;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0;filter:url(#filter3341)"
+       id="path2569"
+       sodipodi:cx="26.727272"
+       sodipodi:cy="18.181818"
+       sodipodi:rx="2.3636363"
+       sodipodi:ry="4"
+       d="m 29.090908,18.181818 a 2.3636363,4 0 1 1 -4.727272,0 2.3636363,4 0 1 1 4.727272,0 z" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       id="path2540"
+       sodipodi:cx="27.071291"
+       sodipodi:cy="17.145844"
+       sodipodi:rx="0.69413567"
+       sodipodi:ry="0.69413567"
+       d="m 27.765427,17.145844 a 0.69413567,0.69413567 0 1 1 -1.388272,0 0.69413567,0.69413567 0 1 1 1.388272,0 z"
+       transform="matrix(1.5833333,0,0,1.5833333,-15.733741,-10.406654)"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       transform="matrix(1.5833333,0,0,1.5833333,-6.3629097,-10.290965)"
+       d="m 27.765427,17.145844 a 0.69413567,0.69413567 0 1 1 -1.388272,0 0.69413567,0.69413567 0 1 1 1.388272,0 z"
+       sodipodi:ry="0.69413567"
+       sodipodi:rx="0.69413567"
+       sodipodi:cy="17.145844"
+       sodipodi:cx="27.071291"
+       id="path3312"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       style="fill:#2e3436;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;opacity:0.03940887"
+       d="m 45.611841,46.720129 c -4.872135,6.781667 -9.778712,8.854158 -14.648418,10.087234 4.181085,0.204669 7.66045,-0.292383 11.490675,-2.017446 2.456023,-2.602214 3.070028,-4.590423 3.157743,-8.069788 z"
+       id="path3315"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.08866996;fill:#eeeeec;fill-opacity:1;stroke:none"
+       id="path3317"
+       sodipodi:cx="16.008001"
+       sodipodi:cy="54.044338"
+       sodipodi:rx="2.4121647"
+       sodipodi:ry="1.3595837"
+       d="m 18.420166,54.044338 a 2.4121647,1.3595837 0 1 1 -4.824329,0 2.4121647,1.3595837 0 1 1 4.824329,0 z"
+       transform="matrix(1.3090909,0,0,1.3090909,-2.535763,-18.828116)"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:0.08866996;fill:#eeeeec;fill-opacity:1;stroke:none"
+       id="path3319"
+       sodipodi:cx="30.787992"
+       sodipodi:cy="6.0641904"
+       sodipodi:rx="4.0348935"
+       sodipodi:ry="3.0261703"
+       d="m 34.822886,6.0641904 a 4.0348935,3.0261703 0 1 1 -8.069787,0 4.0348935,3.0261703 0 1 1 8.069787,0 z"
+       transform="matrix(1,0,0,0.4637681,0.5262904,0.4887871)"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       sodipodi:type="arc"
+       style="opacity:1;fill:#2e3436;fill-opacity:1;stroke:none"
+       id="path2541"
+       sodipodi:cx="32.059864"
+       sodipodi:cy="18.081154"
+       sodipodi:rx="1.2718687"
+       sodipodi:ry="1.2718687"
+       d="m 33.331733,18.081154 a 1.2718687,1.2718687 0 1 1 -2.543738,0 1.2718687,1.2718687 0 1 1 2.543738,0 z"
+       transform="matrix(0.6896552,0,0,0.6896552,9.7303251,5.4798198)"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+    <path
+       style="fill:#2e3436;fill-opacity:1;stroke:none"
+       d="m -39.135434,1.2898717 c -3.818454,0 -6.976999,1.88804 -9.8125,4.53125 l -0.03125,-0.03125 c -2.499631,-3.023667 -9.684793,0.088586 -13.031251,2.15625 -4.83239,2.9857733 0.162657,-1.660496 9.843751,1.28125 -2.225492,2.6032403 -4.282083,5.4345403 -6.40625,7.8124993 -5.615325,6.286234 -11.031251,11.754575 -11.031251,16.5 0,4.745427 3.447172,9.044213 9.0625,12.15625 1.832221,1.015425 3.914565,1.057488 6.156251,0.65625 0.382471,1.374801 0.767387,2.654714 1.25,3.8125 -3.976094,0.755856 -6.9375,4.173747 -6.9375,7.53125 0,4.185979 4.406406,4.25 9.9375,4.25 5.502336,0 10.606038,-0.098858 10.125,-4.1875 3.390172,0.076486 6.39405,0.008131 8.84375,-0.65625 -0.02436,0.109365 -0.048296,0.23246 -0.0625,0.34375 -0.383618,3.005712 3.18096,2.40625 7.09375,2.40625 3.91279,0 7.09375,0.623845 7.09375,-2.40625 0,-3.030094 -3.238219,-6.166942 -7.09375,-5.5 -0.329095,0.056928 -0.668277,0.12891 -1,0.21875 0.73129,-1.541746 1.227585,-3.499331 1.46875,-5.96875 2.576018,0.569414 4.936108,0.643819 7,-0.5 5.615328,-3.112037 9.0937497,-7.410823 9.0937497,-12.15625 0,-4.745425 -6.1034237,-10.745015 -11.7187497,-17.03125 -1.968167,-2.203321 -3.963376,-4.740941 -6.0625,-7.0937493 0.124405,-0.045951 0.257085,-0.119914 0.375,-0.15625 9.745102,-3.002952 14.786115,1.6832983 9.9375,-1.3125 -3.346456,-2.067664 -10.531619,-5.179917 -13.03125,-2.15625 l -0.375,0.4375 c -3.095207,-2.853128 -6.558021,-4.9375 -10.6875,-4.9375 z"
+       id="path3325"
+       inkscape:export-filename="/home/david/gooomba2.png"
+       inkscape:export-xdpi="272.35318"
+       inkscape:export-ydpi="272.35318" />
+  </g>
+</svg>
