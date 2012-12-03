@@ -1,9 +1,9 @@
 class Mosaic {
   int ballSize = 5, cols, rows;
-  float space, mWidth, mHeight,depth=200;
+  float space, mWidth, mHeight, depth=200;
   PImage img;
   Ball[] balls = new Ball[40000];
-  
+
 
   Mosaic() {
     init();
@@ -22,8 +22,12 @@ class Mosaic {
   }  
 
   void init() {
+    float r = sqrt(width*width+height*height+depth*depth);
     for (int i=0;i<balls.length;i++) {
-      balls[i] = new Ball(random(-width, width), random(-height, height), random(-depth, depth), ballSize, color(0,0));
+      balls[i] = new Ball(random(-r, r), 
+      random(-r, r), 
+      random(-r, r), 
+      ballSize, color(255, 0));
     }
   }
 
@@ -34,9 +38,9 @@ class Mosaic {
     cols = img.width;
     mHeight = rows*space;
     mWidth = cols*space;
-    
+
     pushMatrix();
-    translate((width-mWidth)/2, (height-mHeight)/2,-depth);
+    translate((width-mWidth)/2, (height-mHeight)/2, -depth);
     int count=0;
     for (int i=0;i<cols;i++) {
       for (int j=0;j<rows;j++) {
@@ -47,6 +51,13 @@ class Mosaic {
           balls[count].display();
           count++;
         }
+      }
+    }
+
+    for (int i = count;count<balls.length;count++) {
+      if (alpha(balls[count].c) > 0) {
+        balls[count].home();
+        balls[count].display();
       }
     }
     popMatrix();
