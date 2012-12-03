@@ -4,6 +4,7 @@ Mosaic m;
 int count =0;
 int len = 14;
 String[] imgs = new String[len];
+int mButton;
 
 void setup() {
   size(800, 600, P3D);
@@ -11,10 +12,9 @@ void setup() {
   frameRate(30);
   smooth();
   m = new Mosaic(5, 12);
-  for(int i=0;i<len;i++){
+  for (int i=0;i<len;i++) {
     imgs[i] = "20/"+i+".png";
   }
-  
 }
 
 void draw() {
@@ -26,6 +26,16 @@ void draw() {
 }
 
 void mousePressed(){
-  count = ++count % imgs.length;
- }
+  mButton = mouseButton;
+}
+
+void mouseClicked() {
+  if (mButton == LEFT) {
+    count = ++count % imgs.length;
+  }
+  
+  if(mButton == RIGHT){
+    count = (count-1+imgs.length) % imgs.length;
+  }
+}
 
