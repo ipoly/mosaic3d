@@ -1,6 +1,6 @@
 class Mosaic {
   int ballSize = 5, cols, rows;
-  float space, mWidth, mHeight, depth=200;
+  float space, mWidth, mHeight, depth=(width+height)/2;
   PImage img;
   Ball[] balls = new Ball[40000];
 
@@ -40,7 +40,7 @@ class Mosaic {
     mWidth = cols*space;
 
     pushMatrix();
-    translate((width-mWidth)/2, (height-mHeight)/2, -depth);
+    translate(-mWidth/2, -mHeight/2, 0);
     int count=0;
     for (int i=0;i<cols;i++) {
       for (int j=0;j<rows;j++) {
