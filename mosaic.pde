@@ -31,11 +31,11 @@ class Mosaic {
     img = loadImage(imgPath);
     rows = img.height;
     cols = img.width;
-    mWidth = rows*space;
-    mHeight = cols*space;
+    mHeight = rows*space;
+    mWidth = cols*space;
     
     pushMatrix();
-    translate((width-mWidth)/2, (height-mHeight)/2);
+    translate((width-mWidth)/2, (height-mHeight)/2,-200);
     int count=0;
     for (int i=0;i<cols;i++) {
       for (int j=0;j<rows;j++) {
