@@ -29,15 +29,12 @@ class Ball {
     fill(c);
     sphereDetail(10);
     sphere(r);
-//    box(r);
     popMatrix();
   }
 
 
   //2d
   void moveTo(float x_, float y_) {
-//    x = lerp(x, x_, 0.1);
-////    y = lerp(y, y_, 0.1);
     x = lerp(x, x_, random(0.3));
     y = lerp(y, y_, random(0.3));
   }
@@ -49,7 +46,6 @@ class Ball {
   }
   
   void colorTo(color c_){
-//    c = c_;
     c = lerpColor(c,c_,0.1);
   }
   

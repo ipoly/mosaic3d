@@ -55,10 +55,10 @@ class Mosaic {
     }
 
     for (int i = count;count<balls.length;count++) {
-      if (alpha(balls[count].c) > 0) {
-        Ball b = balls[count];
+      Ball b = balls[count];
+      if (alpha(b.c) > 0) {
         b.home();
-        b.colorTo(color(b.c,0));
+        b.colorTo(color(b.c, 0));
         b.display();
       }
     }
