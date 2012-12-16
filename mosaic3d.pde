@@ -1,3 +1,20 @@
+/*@pjs preload="
+  /p5/mosaic3d/data/20/0.png,
+  /p5/mosaic3d/data/20/1.png,
+  /p5/mosaic3d/data/20/2.png,
+  /p5/mosaic3d/data/20/3.png,
+  /p5/mosaic3d/data/20/4.png,
+  /p5/mosaic3d/data/20/5.png,
+  /p5/mosaic3d/data/20/6.png,
+  /p5/mosaic3d/data/20/7.png,
+  /p5/mosaic3d/data/20/8.png,
+  /p5/mosaic3d/data/20/9.png,
+  /p5/mosaic3d/data/20/10.png,
+  /p5/mosaic3d/data/20/11.png,
+  /p5/mosaic3d/data/20/12.png,
+  /p5/mosaic3d/data/20/13.png
+"
+*/
 Ball ball1;
 Mosaic m;
 View v;
@@ -15,7 +32,7 @@ void setup() {
   m = new Mosaic(5, 12);
   v = new View();
   for (int i=0;i<len;i++) {
-    imgs[i] = "20/"+i+".png";
+    imgs[i] = "/p5/mosaic3d/data/20/"+i+".png";
   }
 }
 

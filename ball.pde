@@ -12,7 +12,7 @@ class Ball {
     homez=z=z_;
     r=r_;
     c=c_;
-  } 
+  }
 
   //2d
   Ball(float x_, float y_, int r_, color c_) {
@@ -44,11 +44,11 @@ class Ball {
     moveTo(x_,y_);
     z = lerp(z, z_, 0.1);
   }
-  
+
   void colorTo(color c_){
     c = lerpColor(c,c_,0.1);
   }
-  
+
   void home() {
     moveTo(homex, homey, homez);
   }

@@ -7,26 +7,26 @@ class Mosaic {
 
   Mosaic() {
     init();
-  }  
+  }
 
   Mosaic( int ballSize_) {
     ballSize = ballSize_;
     space = ballSize*2.3;
     init();
-  }  
+  }
 
   Mosaic(int ballSize_, int space_) {
     ballSize = ballSize_;
     space = space_;
     init();
-  }  
+  }
 
   void init() {
     float r = sqrt(width*width+height*height+depth*depth);
     for (int i=0;i<balls.length;i++) {
-      balls[i] = new Ball(random(-r, r), 
-      random(-r, r), 
-      random(-r, r), 
+      balls[i] = new Ball(random(-r, r),
+      random(-r, r),
+      random(-r, r),
       ballSize, color(255, 0));
     }
   }
@@ -54,7 +54,7 @@ class Mosaic {
       }
     }
 
-    for (int i = count;count<balls.length;count++) {
+    for (int i = count-1;count<balls.length;count++) {
       Ball b = balls[count];
       if (alpha(b.c) > 0) {
         b.home();
