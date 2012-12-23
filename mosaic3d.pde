@@ -15,24 +15,31 @@
   /p5/mosaic3d/data/20/13.png
 "
 */
+
 Ball ball1;
 Mosaic m;
 View v;
 PImage img;
 int count =0;
 int len = 14;
-String[] imgs = new String[len];
 int mButton;
+String[] imgs = new String[len];
+String[] configs = loadStrings("/p5/webconfig.cfg");//用于设置web端的路径
+String dir = "";
+
 
 void setup() {
   size(800, 600, P3D);
   background(0);
   frameRate(30);
   smooth();
+  if(configs != null){
+    dir = configs[0]+"mosaic3d/data/";
+  }
   m = new Mosaic(5, 12);
   v = new View();
   for (int i=0;i<len;i++) {
-    imgs[i] = "/p5/mosaic3d/data/20/"+i+".png";
+    imgs[i] = dir+"20/"+i+".png";
   }
 }
 
@@ -42,8 +49,6 @@ void draw() {
   translate(width/2, height/2, -200);
   v.rotate();
   m.animateTo(imgs[count]);
-//  float camZ = (height/2.0)/tan(PI*60/360);
-//  camera(mouseX, mouseY, camZ, width/2.0, height/2.0, 0, 0, 1, 0);
 }
 
 
