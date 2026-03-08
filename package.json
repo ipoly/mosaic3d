@@ -1,0 +1,23 @@
+{
+  "name": "mosaic3d",
+  "version": "1.0.0",
+  "description": "3D Mosaic visualization with p5.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.6.3",
+  "dependencies": {
+    "p5": "^2.2.2"
+  },
+  "devDependencies": {
+    "@types/p5": "^1.7.7",
+    "typescript": "^5.9.3",
+    "vite": "^7.3.1"
+  }
+}
